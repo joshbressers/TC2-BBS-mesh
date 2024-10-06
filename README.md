@@ -1,3 +1,7 @@
+This repo is now at https://github.com/joshbressers/meshbbs
+I created a new repo to remove the fork
+
+
 # meshbbs
 
 This is a BBS project to run on a meshtastic node. The project was forked from https://github.com/TheCommsChannel/TC2-BBS-mesh and has been heavily modified. They deserve credit for the initial idea and code.
